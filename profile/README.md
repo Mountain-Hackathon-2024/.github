@@ -5,7 +5,7 @@
 - Auf den Repo-Link klicken
 - Oben rechts das Dropdown-Menü "Fork" öffnen und beim Plus-Symbol auf "Create a new fork" klicken
 - Auf "Create fork" klicken
-- Über Bleistiftsymbol das File README mit benötigten Angaben ausfüllen (Telefonnummer ist optional)
+- Über Bleistiftsymbol das File README mit benötigten Angaben ausfüllen
 - Auf "Commit changes..." klicken
 - Erneut auf "Commit changes" klicken
 - Zurück zu Root des Repos navigieren (blauer link oben links)
